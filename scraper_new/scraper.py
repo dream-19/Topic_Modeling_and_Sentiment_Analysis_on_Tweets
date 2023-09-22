@@ -29,19 +29,34 @@ def convert_to_csv(all_tweet, theme):
                                    'orario',
                                     'text'])
     for x in all_tweet: 
-        username = '@'+ x.user.username
+        username = x.user.username
         orario = x.date
         text = x.rawContent
         iesimo_tweet = [username, orario, text]
         db.loc[len(db)] = iesimo_tweet #appendo il tweet al dataframe
         
-    current_datetime = datetime.now()
-    # Format the current datetime as a string with a timestamp
-    today = current_datetime.strftime("%Y-%m-%d_%H:%M:%S")
-    
-    filename = f'{theme}_{today}.csv'
-    print('filename',filename)
-    db.to_csv(f'./files/{filename}')
+    #Creazione del file
+    filename = f'./files/{theme}.csv'
+
+    # Check if the file exists
+    if os.path.isfile(filename):
+        #Append of results
+        # Define the path to the existing CSV file
+        existing_csv_file = filename
+
+        # Read the existing CSV file into a DataFrame
+        existing_df = pd.read_csv(existing_csv_file)
+
+       
+
+        # Concatenate the new DataFrame with the existing one while preserving the index
+        final_df = pd.concat([db, existing_df], ignore_index=True) #append on top for the new results
+
+        # Overwrite the existing CSV file with the concatenated DataFrame
+        final_df.to_csv(existing_csv_file, index=False)
+    else:
+        #Create new result file
+        db.to_csv(filename)
     
 
 async def main():
@@ -70,7 +85,6 @@ async def main():
     show_tweets(result)
     convert_to_csv(result, word)
     
-
     print('---------------------------------------------------------\nfine!')
    
  
