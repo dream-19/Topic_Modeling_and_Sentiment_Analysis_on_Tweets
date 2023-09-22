@@ -1,7 +1,7 @@
 import asyncio
 from twscrape import API, gather
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
 
 
@@ -21,18 +21,25 @@ async def get_user_tweet(api, user, user_id, limit): #https://tweeterid.com/
 def show_tweets(all_tweet):
     for x in all_tweet: 
         print("------------------TWEET------------------")
-        print( x.user.username, x.date, x.rawContent)
+        print( x.user.username, x.date + timedelta(hours=2), x.rawContent)
        
     
-def convert_to_csv(all_tweet, theme):
+def convert_to_csv(all_tweet, theme, onlyToday = False):
     db = pd.DataFrame(columns=['username',
                                    'orario',
                                     'text'])
+    today = datetime.now().date()
     for x in all_tweet: 
         username = x.user.username
-        orario = x.date
+        orario = x.date + timedelta(hours=2) #correzione orario (UTC+2)
         text = x.rawContent
         iesimo_tweet = [username, orario, text]
+
+        if onlyToday:
+            # Check if the timestamp's date is the same as the current date
+            if orario.date() != today:
+                continue #skip the tweet
+            
         db.loc[len(db)] = iesimo_tweet #appendo il tweet al dataframe
         
     #Creazione del file
@@ -77,18 +84,25 @@ async def main():
     user = '@Mike_Pence'
     result = await get_user_tweet(api, user, 22203756, 1)
     #show_tweets(result)
-    convert_to_csv(result, user)
+    convert_to_csv(result, user, True)
     
     #3) #Democrats
     word = '#Democrats'
     result = await get_word_tweet(api, word, 1)
-    show_tweets(result)
+    #show_tweets(result)
     convert_to_csv(result, word)
+    
+    #4) #Republicans
+    word = '#Republicans'
+    result = await get_word_tweet(api, word, 1)
+    #show_tweets(result)
+    convert_to_csv(result, word)
+    
+    #
     
     print('---------------------------------------------------------\nfine!')
    
  
-    
 
     
 if __name__ == "__main__":
