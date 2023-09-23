@@ -11,7 +11,13 @@ await api.pool.add_account("nome_account", "password_account", "email", "passwor
 Possono essere aggiunti più account per evitare blocchi di tempo
 
 3) Scaricare Tweet:
-è possibile scaricare sia tweets da account (in quel caso serve l'id dell'account) sia tweets in base a parole/hashtag
+è possibile scaricare sia tweets da account (in quel caso serve l'id dell'account) sia tweets in base a parole/hashtag.
+Nel caso di tweet provenienti da un account vengono presi anche i tweet repostati.
+Viene memorizzato il tweet retweettato con un RT di fronte e poi anche il tweet e l'account di provenienza (quindi appare due volte).
+Es:
+    1) Mike_Pence,2023-08-24 04:19:39+00:00,"RT @TeamPence: “I chose the Constitution, and I always will.” —@Mike_Pence #GOPDebate",
+    2) TeamPence,2023-08-24 04:17:15+00:00,"“I chose the Constitution, and I always will.” —@Mike_Pence #GOPDebate",
+
 Nel main vengono definiti i punti da cui prelevare i tweets.
 
 Esempio da account:

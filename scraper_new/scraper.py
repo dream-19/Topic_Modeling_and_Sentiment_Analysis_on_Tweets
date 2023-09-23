@@ -73,7 +73,7 @@ async def main():
     print('avvio\n---------------------------------------------------')
     #Avvio le ricerche
     
-    #300) @marwilliamson
+    #1) @marwilliamson
     user = '@marwilliamson'
     result = await get_user_tweet(api,user, 21522338, 300)
     #show_tweets(result)
@@ -163,22 +163,17 @@ async def main():
     result = await get_user_tweet(api, user, 487297085, 300)
     convert_to_csv(result, user)
     
-    #18) @Mike_Pence
-    user = '@Mike_Pence'
-    result = await get_user_tweet(api, user, 22203756, 300)
-    convert_to_csv(result, user)
-    
-    #19) @GovChristie
+    #18) @GovChristie
     user = '@GovChristie'
     result = await get_user_tweet(api, user, 90484508, 300)
     convert_to_csv(result, user)
     
-    #20) @GovDougBurgum
+    #19) @GovDougBurgum
     user = '@GovDougBurgum'
     result = await get_user_tweet(api, user, 518700708, 300)
     convert_to_csv(result, user)
    
-    #21) @WillHurd
+    #20) @WillHurd
     user = '@WillHurd'
     result = await get_user_tweet(api, user, 2963445730, 300)
     convert_to_csv(result, user)
