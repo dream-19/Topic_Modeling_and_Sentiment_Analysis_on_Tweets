@@ -1,11 +1,13 @@
-Elenco account o hashtag da seguire
+Elenco account dei candidati:
 
 - @marwilliamson: Marianne Williamson (democratica)
 - @Mike_Pence: Mike Pence (repubblicano)
-- #Democrats: 
-- #Republicans
 - @TheDemocrats: account dei democratici
+- @HouseDemocrats: democratici
+- @dscc: senato democratici
 - @GOP: account dei repubblicani
+- @HouseGOP: repubblicani
+- @SenateGOP: senato repubblicano
 - @AP_Politics: pagina politica
 - @politico: pagina politica
 - @POTUS: Joe Biden (democratico)
@@ -21,4 +23,39 @@ Elenco account o hashtag da seguire
 - @GovDougBurgum: Doug Burgum (repubblicano)
 - @WillHurd: Will Hurd (repubblicano)
 
-https://www.vogue.com/article/the-nine-best-twitter-accounts-to-follow-on-election-day:
+Altri politici principali:
+@KamalaHarris
+@MichaelBennet
+@SecretaryPete
+@JohnDelaney
+@TulsiGabbard
+@gillibrandny
+@SenatorHick
+@SenAmyKlobuchar
+@BernieSanders
+@SenWarren
+@AndrewYang
+@TomSteyer
+@SenDuckworth
+@valdemings
+@BarackObama
+
+
+Giornalisti - https://www.vogue.com/article/the-nine-best-twitter-accounts-to-follow-on-election-day:
+@MollyJongFast
+@jamesrhenson
+@NewsbySmiley
+@jonathanvswan
+@rickhasen
+@amyewalter
+@Redistrict
+@CookPolitical
+@Nate_Cohn
+@NateSilver538
+
+Hashtag interessanti:
+#uspolitics
+#Democrats: 
+#Republicans
+#US2024election
+#uselection2024

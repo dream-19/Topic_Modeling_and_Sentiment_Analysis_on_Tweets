@@ -178,6 +178,104 @@ async def main():
     result = await get_user_tweet(api, user, 2963445730, 100)
     convert_to_csv(result, user, True)
     
+    #21) @HouseGOP
+    user = '@HouseGOP'
+    result = await get_user_tweet(api, user, 15207668, 1200)
+    convert_to_csv(result, user)
+    
+    #22) @SenateGOP
+    user = '@SenateGOP'
+    result = await get_user_tweet(api, user, 14344823, 1200)
+    convert_to_csv(result, user)
+    
+    #23) @HouseDemocrats
+    user = '@HouseDemocrats'
+    result = await get_user_tweet(api, user, 43963249, 1200)
+    convert_to_csv(result, user)
+    
+    #24) @dscc
+    user = '@dscc'
+    result = await get_user_tweet(api, user, 14466538, 1200)
+    convert_to_csv(result, user)
+    
+    #Altri politici interessanti:
+    #1) @KamalaHarris
+    user = '@KamalaHarris'
+    result = await get_user_tweet(api, user, 30354991, 800)
+    convert_to_csv(result, user)
+    
+    #2) @MichaelBennet
+    user = '@MichaelBennet'
+    result = await get_user_tweet(api, user, 45645232, 800)
+    convert_to_csv(result, user)
+    
+    #3) @SecretaryPete
+    user = '@SecretaryPete'
+    result = await get_user_tweet(api, user, 1356958547603513346, 800)
+    convert_to_csv(result, user)
+    
+    #4) @JohnDelaney
+    user = '@JohnDelaney'
+    result = await get_user_tweet(api, user, 426028646, 800)
+    convert_to_csv(result, user)
+    
+    #5) @TulsiGabbard
+    user = '@TulsiGabbard'
+    result = await get_user_tweet(api, user, 26637348, 800)
+    convert_to_csv(result, user)
+    
+    #6) @gillibrandny
+    user = '@gillibrandny'
+    result = await get_user_tweet(api, user, 899978622416695297, 800)
+    convert_to_csv(result, user)
+    
+    #7) @SenatorHick
+    user = '@SenatorHick'
+    result = await get_user_tweet(api, user, 1318728336923787264, 800)
+    convert_to_csv(result, user)
+    
+    #8) @SenAmyKlobuchar
+    user = '@SenAmyKlobuchar'
+    result = await get_user_tweet(api, user, 22044727, 800)
+    convert_to_csv(result, user)
+    
+    #9) @BernieSanders
+    user = '@BernieSanders'
+    result = await get_user_tweet(api, user, 216776631, 800)
+    convert_to_csv(result, user)
+    
+    #10) @SenWarren
+    user = '@SenWarren'
+    result = await get_user_tweet(api, user, 970207298, 800)
+    convert_to_csv(result, user)
+    
+    #11) @AndrewYang
+    user = '@AndrewYang'
+    result = await get_user_tweet(api, user, 2228878592, 800)
+    convert_to_csv(result, user)
+    
+    #12)@TomSteyer
+    user = '@TomSteyer'
+    result = await get_user_tweet(api, user, 949934436, 300)
+    convert_to_csv(result, user)
+    
+    #13) @SenDuckworth
+    user = '@SenDuckworth'
+    result = await get_user_tweet(api, user, 1058520120, 800)
+    convert_to_csv(result, user)
+    
+    #14) @valdemings
+    user = '@valdemings'
+    result = await get_user_tweet(api, user, 3404875323, 300)
+    convert_to_csv(result, user)
+    
+    #15) @BarackObama
+    user = '@BarackObama'
+    result = await get_user_tweet(api, user, 813286, 800)
+    convert_to_csv(result, user)
+    
+    
+    
     #Account giornalistici:
     #1) @MollyJongFast
     user = '@MollyJongFast'
@@ -229,7 +327,21 @@ async def main():
     result = await get_user_tweet(api, user, 16017475, 800)
     convert_to_csv(result, user)
     
+    #Altri hashtag interessanti:
+    #1) #uspolitics
+    word = '#uspolitics'
+    result = await get_word_tweet(api, word, 1300)
+    convert_to_csv(result, word)
     
+    #2) #US2024election
+    word = '#US2024election'
+    result = await get_word_tweet(api, word, 1300)
+    convert_to_csv(result, word)
+    
+    #3) #uselection2024
+    word = '#uselection2024'
+    result = await get_word_tweet(api, word, 1300)
+    convert_to_csv(result, word)
     
     print('---------------------------------------------------------\nfine!')
    
