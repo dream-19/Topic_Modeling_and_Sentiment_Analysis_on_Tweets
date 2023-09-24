@@ -75,12 +75,12 @@ async def main():
     print('avvio\n---------------------------------------------------')
     #Avvio le ricerche
     
-    '''
+    
     #1) @marwilliamson
     user = '@marwilliamson'
-    result = await get_user_tweet(api,user, 21522338, 100)
+    result = await get_user_tweet(api,user, 21522338, 800)
     #show_tweets(result)
-    convert_to_csv(result, user, True)
+    convert_to_csv(result, user)
     
     #2) @Mike_Pence
     user = '@Mike_Pence'
@@ -90,15 +90,15 @@ async def main():
     
     #3) #Democrats
     word = '#Democrats'
-    result = await get_word_tweet(api, word, 500)
+    result = await get_word_tweet(api, word, 1300)
     #show_tweets(result)
-    convert_to_csv(result, word, True)
+    convert_to_csv(result, word)
     
     #4) #Republicans
     word = '#Republicans'
-    result = await get_word_tweet(api, word, 500)
+    result = await get_word_tweet(api, word, 1300)
     #show_tweets(result)
-    convert_to_csv(result, word, True)
+    convert_to_csv(result, word)
     
     #5) @TheDemocrats
     user = '@TheDemocrats'
@@ -128,8 +128,8 @@ async def main():
     
     #10) @RobertKennedyJr
     user = '@RobertKennedyJr'
-    result = await get_user_tweet(api, user, 337808606, 100)
-    convert_to_csv(result, user, True)
+    result = await get_user_tweet(api, user, 337808606, 800)
+    convert_to_csv(result, user)
     
     #11) @NikkiHaley
     user = '@NikkiHaley'
@@ -158,8 +158,8 @@ async def main():
     
     #16) @Senatortimscott
     user = '@Senatortimscott'
-    result = await get_user_tweet(api, user, 217543151, 100)
-    convert_to_csv(result, user, True)
+    result = await get_user_tweet(api, user, 217543151, 800)
+    convert_to_csv(result, user)
     
     #17)@RonDeSantis
     user = '@RonDeSantis'
@@ -168,8 +168,8 @@ async def main():
     
     #18) @GovChristie
     user = '@GovChristie'
-    result = await get_user_tweet(api, user, 90484508, 100)
-    convert_to_csv(result, user, True)
+    result = await get_user_tweet(api, user, 90484508, 800)
+    convert_to_csv(result, user)
     
     #19) @GovDougBurgum
     user = '@GovDougBurgum'
@@ -178,8 +178,8 @@ async def main():
    
     #20) @WillHurd
     user = '@WillHurd'
-    result = await get_user_tweet(api, user, 2963445730, 100)
-    convert_to_csv(result, user, True)
+    result = await get_user_tweet(api, user, 2963445730, 800)
+    convert_to_csv(result, user)
     
     '''
     
@@ -347,6 +347,7 @@ async def main():
     result = await get_word_tweet(api, word, 1300)
     convert_to_csv(result, word)
     
+    '''
     print('---------------------------------------------------------\nfine!')
    
  
