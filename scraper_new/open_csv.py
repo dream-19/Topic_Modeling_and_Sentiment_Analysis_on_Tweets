@@ -19,12 +19,17 @@ def read_csv(relative_path):
             if file_extension == '.csv':
                 row_count = 0
                 with open(file_path, 'r') as csv_file:
+                    first_row = None
+                    last_row = None
+                    csv_file.readline() #index
                     csv_reader = csv.reader(csv_file)
                     
                     for row in csv_reader:
+                        if first_row is None:
+                            first_row = row
                         row_count += 1
-                        
-                    print("Dimensione file",filename, ":  ", row_count)
+                        last_row = row
+                    print("Dimensione file",filename, ":  ", row_count, "date da: ", last_row[1].split()[0], "a: ", first_row[1].split()[0])
                     tot_tweets += row_count
                     num_files += 1
                     

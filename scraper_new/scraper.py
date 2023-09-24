@@ -178,6 +178,58 @@ async def main():
     result = await get_user_tweet(api, user, 2963445730, 100)
     convert_to_csv(result, user, True)
     
+    #Account giornalistici:
+    #1) @MollyJongFast
+    user = '@MollyJongFast'
+    result = await get_user_tweet(api, user, 14298769, 800)
+    convert_to_csv(result, user)
+    
+    #2)@jamesrhenson
+    user = '@jamesrhenson'
+    result = await get_user_tweet(api, user, 49758766, 800)
+    convert_to_csv(result, user)
+    
+    #3) @NewsbySmiley
+    user = '@NewsbySmiley'
+    result = await get_user_tweet(api, user, 250690720, 800)
+    convert_to_csv(result, user)
+    
+    #4) @jonathanvswan
+    user = '@jonathanvswan'
+    result = await get_user_tweet(api, user, 327862439, 800)
+    convert_to_csv(result, user)
+    
+    #5) @rickhasen
+    user = '@rickhasen'
+    result = await get_user_tweet(api, user, 47034524, 800)
+    convert_to_csv(result, user)
+    
+    #6) @amyewalter
+    user = '@amyewalter'
+    result = await get_user_tweet(api, user, 50073507, 800)
+    convert_to_csv(result, user)
+    
+    #7) @Redistrict
+    user = '@Redistrict'
+    result = await get_user_tweet(api, user, 74820061, 800)
+    convert_to_csv(result, user)
+    
+    #8) @CookPolitical
+    user = '@CookPolitical'
+    result = await get_user_tweet(api, user, 191477653, 800)
+    convert_to_csv(result, user)
+    
+    #9) @Nate_Cohn
+    user = '@Nate_Cohn'
+    result = await get_user_tweet(api, user, 463765807, 800)
+    convert_to_csv(result, user)
+    
+    #10) @NateSilver538
+    user = '@NateSilver538'
+    result = await get_user_tweet(api, user, 16017475, 800)
+    convert_to_csv(result, user)
+    
+    
     
     print('---------------------------------------------------------\nfine!')
    
