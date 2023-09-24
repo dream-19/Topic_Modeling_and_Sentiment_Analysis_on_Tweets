@@ -29,7 +29,7 @@ def read_csv(relative_path):
                             first_row = row
                         row_count += 1
                         last_row = row
-                    print("Dimensione file",filename, ":  ", row_count, "date da: ", last_row[1].split()[0], "a: ", first_row[1].split()[0])
+                    print("Dimensione file",filename, ":  ", row_count, "date da: ", last_row[2].split()[0], "a: ", first_row[2].split()[0])
                     tot_tweets += row_count
                     num_files += 1
                     
