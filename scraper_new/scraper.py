@@ -194,12 +194,12 @@ async def main():
     
     #23) @HouseDemocrats
     user = '@HouseDemocrats'
-    result = await get_user_tweet(api, user, 43963249, 200)
+    result = await get_user_tweet(api, user, 43963249, 100)
     convert_to_csv(result, user, True)
     
     #24) @dscc
     user = '@dscc'
-    result = await get_user_tweet(api, user, 14466538, 200)
+    result = await get_user_tweet(api, user, 14466538, 100)
     convert_to_csv(result, user, True)
     
     #Altri politici interessanti:
@@ -333,7 +333,7 @@ async def main():
     #Altri hashtag interessanti:
     #1) #uspolitics
     word = '#uspolitics'
-    result = await get_word_tweet(api, word, 800)
+    result = await get_word_tweet(api, word, 300)
     convert_to_csv(result, word, True)
     
     #2) #US2024election
