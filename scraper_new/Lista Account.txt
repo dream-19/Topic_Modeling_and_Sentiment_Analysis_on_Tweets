@@ -23,7 +23,7 @@ Elenco account dei candidati:
 - @GovDougBurgum: Doug Burgum (repubblicano)
 - @WillHurd: Will Hurd (repubblicano)
 
-Altri politici principali:
+Altri politici attivi:
 @KamalaHarris
 @MichaelBennet
 @SecretaryPete
@@ -39,9 +39,22 @@ Altri politici principali:
 @SenDuckworth
 @valdemings
 @BarackObama
+@GovMLG
+@SenatorBaldwin
+@SenatorHassan
+@GovWhitmer
+@RepMattGaetz
+@RepMTG
+@SpeakerMcCarthy
+@laurenboebert
+@Jim_Jordan
+@RepSpanberger
+@RepSherrill
+@RepSlotkin
+@RepHoulahan
 
 
-Giornalisti - https://www.vogue.com/article/the-nine-best-twitter-accounts-to-follow-on-election-day:
+Giornalisti tratti da: https://www.vogue.com/article/the-nine-best-twitter-accounts-to-follow-on-election-day:
 @MollyJongFast
 @jamesrhenson
 @NewsbySmiley
@@ -53,9 +66,23 @@ Giornalisti - https://www.vogue.com/article/the-nine-best-twitter-accounts-to-fo
 @Nate_Cohn
 @NateSilver538
 
+Altro
+@LeadingReport - news di politica
+@IngrahamAngle - giornalista
+@marklevinshow
+@CollinRugg
+@TheDemCoalition
+@WhiteHouse
+@WashTimesOpEd
+@NRSC - senato repubblicano
+
+
 Hashtag interessanti:
 #uspolitics
-#Democrats: 
+#Democrats
 #Republicans
 #US2024election
 #uselection2024
+#DEMOCRACY24
+#Trump2024
+#Biden2024

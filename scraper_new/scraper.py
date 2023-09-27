@@ -278,6 +278,76 @@ async def main():
     result = await get_user_tweet(api, user, 813286, 50)
     convert_to_csv(result, user, True)
     
+    #16) @GovMLG
+    user = '@GovMLG'
+    result = await get_user_tweet(api, user, 11070083706822438912, 900)
+    convert_to_csv(result, user)
+    
+    #17) @SenatorBaldwin
+    user = '@SenatorBaldwin'
+    result = await get_user_tweet(api, user, 1074518754, 900)
+    convert_to_csv(result, user)
+    
+    #18) @SenatorHassan
+    user = '@SenatorHassan'
+    result = await get_user_tweet(api, user, 946549322, 900)
+    convert_to_csv(result, user)
+    
+    #19) @GovWhitmer
+    user = '@GovWhitmer'
+    result = await get_user_tweet(api, user, 102071743, 900)
+    convert_to_csv(result, user)
+    
+    #20) @RepMattGaetz
+    user = '@RepMattGaetz'
+    result = await get_user_tweet(api, user, 818948638890217473, 900)
+    convert_to_csv(result, user)
+    
+    #21) @RepMTG
+    user = '@RepMTG'
+    result = await get_user_tweet(api, user, 1344356576786866176, 900)
+    convert_to_csv(result, user)
+    
+    #22) @SpeakerMcCarthy
+    user = '@SpeakerMcCarthy'
+    result = await get_user_tweet(api, user, 19739126, 900)
+    convert_to_csv(result, user)
+    
+    #23) @laurenboebert
+    user = '@laurenboebert'
+    result = await get_user_tweet(api, user, 1201670995435646976, 900)
+    convert_to_csv(result, user)
+    
+    #24) @Jim_Jordan
+    user = '@Jim_Jordan'
+    result = await get_user_tweet(api, user, 18166778, 900)
+    convert_to_csv(result, user)
+    
+    #25) @RepSpanberger
+    user = '@RepSpanberger'
+    result = await get_user_tweet(api, user, 1078771401497161728, 900)
+    convert_to_csv(result, user)
+    
+    #26) @RepSherrill
+    user = '@RepSherrill'
+    result = await get_user_tweet(api, user, 11080569698536878081, 900)
+    convert_to_csv(result, user)
+    
+    #27) @RepSlotkin
+    user = '@RepSlotkin'
+    result = await get_user_tweet(api, user, 1078401427347857408, 900)
+    convert_to_csv(result, user)
+    
+    #28) @RepHoulahan
+    user = '@RepHoulahan'
+    result = await get_user_tweet(api, user, 1052896620797460481, 900)
+    convert_to_csv(result, user)
+    
+    
+    
+    
+    
+    
     
     #Account giornalistici:
     #1) @MollyJongFast
@@ -345,6 +415,63 @@ async def main():
     word = '#uselection2024'
     result = await get_word_tweet(api, word, 50)
     convert_to_csv(result, word, True)
+    
+    #4) #DEMOCRACY24
+    word = '#DEMOCRACY24'
+    result = await get_word_tweet(api, word, 1500)
+    convert_to_csv(result, word)
+    
+    #5) #Trump2024
+    word = '#Trump2024'
+    result = await get_word_tweet(api, word, 900)
+    convert_to_csv(result, word)
+    
+    #6) #Biden2024
+    word = '#Biden2024'
+    result = await get_word_tweet(api, word, 900)
+    convert_to_csv(result, word)
+    
+    
+    #Altro:
+    #1) '@LeadingReport'
+    user = '@LeadingReport'
+    result = await get_user_tweet(api, user, 1528943647185678336, 2000)
+    convert_to_csv(result, user)
+    
+    #2) @IngrahamAngle
+    user = '@IngrahamAngle'
+    result = await get_user_tweet(api, user, 50769180, 700)
+    convert_to_csv(result, user)
+    
+    #3) @marklevinshow
+    user = '@marklevinshow'
+    result = await get_user_tweet(api, user, 38495835, 700)
+    convert_to_csv(result, user)
+    
+    #4) @CollinRugg
+    user = '@CollinRugg'
+    result = await get_user_tweet(api, user, 890061634181373952, 700)
+    convert_to_csv(result, user)
+    
+    #5) @TheDemCoalition
+    user = '@TheDemCoalition'
+    result = await get_user_tweet(api, user, 713839291210792960, 1500)
+    convert_to_csv(result, user)
+    
+    #6) @WhiteHouse
+    user = '@WhiteHouse'
+    result = await get_user_tweet(api, user, 1323730225067339784, 900)
+    convert_to_csv(result, user)
+    
+    #7) @WashTimesOpEd
+    user = '@WashTimesOpEd'
+    result = await get_user_tweet(api, user, 41207697, 900)
+    convert_to_csv(result, user)
+    
+    #8) @NRSC
+    user = '@NRSC'
+    result = await get_user_tweet(api, user, 5693842, 900)
+    convert_to_csv(result, user)
     
     
     print('---------------------------------------------------------\nfine!')
