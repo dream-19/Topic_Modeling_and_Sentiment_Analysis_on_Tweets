@@ -53,6 +53,14 @@ def convert_to_csv(all_tweet, theme, onlyToday = False):
 
         # Read the existing CSV file into a DataFrame
         existing_df = pd.read_csv(existing_csv_file)
+        
+        #Se per un qualche motivo c'è una quarta colonna (errore), la elimino
+        num_columns = existing_df.shape[1]
+
+        # Check if there are at least 4 columns before attempting to delete the fourth one
+        if num_columns >= 4:
+            existing_df.drop(existing_df.columns[3], axis=1, inplace=True)
+        
         # Concatenate the new DataFrame with the existing one while preserving the index
         final_df = pd.concat([db, existing_df], ignore_index=True) #append on top for the new results
 
