@@ -192,12 +192,12 @@ async def main():
     
     #21) @HouseGOP
     user = '@HouseGOP'
-    result = await get_user_tweet(api, user, 15207668, 200)
+    result = await get_user_tweet(api, user, 15207668, 50)
     convert_to_csv(result, user, True)
     
     #22) @SenateGOP
     user = '@SenateGOP'
-    result = await get_user_tweet(api, user, 14344823, 200)
+    result = await get_user_tweet(api, user, 14344823, 50)
     convert_to_csv(result, user, True)
     
     #23) @HouseDemocrats
