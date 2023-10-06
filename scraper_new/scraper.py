@@ -28,7 +28,8 @@ def convert_to_csv(all_tweet, theme, onlyToday = False):
     db = pd.DataFrame(columns=['username',
                                    'orario',
                                     'text'])
-    today = datetime.now().date()
+    
+    today = datetime.now().date() 
     for x in all_tweet: 
         username = x.user.username
         orario = x.date + timedelta(hours=2) #correzione orario (UTC+2)
