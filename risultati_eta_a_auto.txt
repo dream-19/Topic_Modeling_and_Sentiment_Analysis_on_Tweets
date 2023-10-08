@@ -1,0 +1,300 @@
+
+
+Executing LDA with 6 topics and 50 epochs
+Execution time: 10.742 min
+Coherence umass: -10.018 e Coherence cv: 0.526
+
+----- TOPIC -----
+Topic1: "amp", "american", "year", "state", "today", "family", "right", "need", "job", "make"
+Topic2: "biden", "trump", "president", "people", "republican", "democrat", "election", "house", "get", "would"
+Topic3: "extremist", "faith", "larry", "grant", "alongside", "blame", "development", "river", "solidarity", "legislature"
+Topic4: "town", "improve", "bus", "everyday", "vehicle", "gold", "legacy", "fast", "proposed", "rnc"
+Topic5: "industry", "haley", "airport", "reform", "resign", "rest", "ceiling", "ally", "accountable", "green"
+Topic6: "economic", "via", "tune", "manufacturing", "affordable", "middle", "food", "created", "road", "rate"
+
+
+Executing LDA with 7 topics and 50 epochs
+Execution time: 8.829 min
+Coherence umass: -11.055 e Coherence cv: 0.542
+
+----- TOPIC -----
+Topic1: "choose", "society", "stupid", "missed", "destroyed", "trade", "fake", "earth", "proposed", "rnc"
+Topic2: "biden", "amp", "american", "trump", "people", "year", "president", "republican", "state", "right"
+Topic3: "act", "care", "health", "cost", "gun", "funding", "climate", "tax", "energy", "colorado"
+Topic4: "israel", "kick", "decline", "starbucks", "medicaid", "entrepreneur", "touch", "privilege", "violent", "insane"
+Topic5: "tune", "writes", "destroy", "elect", "summit", "training", "train", "partnership", "driver", "tuberville"
+Topic6: "via", "default", "god", "prevent", "mr", "rail", "accountable", "example", "virginia", "super"
+Topic7: "bill", "court", "debt", "money", "pay", "student", "billion", "economic", "justice", "china"
+
+
+Executing LDA with 8 topics and 50 epochs
+Execution time: 10.162 min
+Coherence umass: -11.173 e Coherence cv: 0.550
+
+----- TOPIC -----
+Topic1: "god", "unemployment", "airport", "quality", "mr", "caucus", "bob", "wealthy", "honored", "speaking"
+Topic2: "american", "people", "president", "biden", "republican", "right", "time", "need", "get", "one"
+Topic3: "et", "reproductive", "extremist", "strike", "larry", "progressive", "facility", "deserves", "sacrifice", "river"
+Topic4: "tune", "everyday", "minnesota", "earth", "fast", "cancer", "easier", "gt", "award", "color"
+Topic5: "colorado", "please", "billionaire", "dangerous", "robert", "housing", "resign", "airline", "accountable", "experience"
+Topic6: "family", "job", "community", "act", "law", "million", "working", "bill", "help", "health"
+Topic7: "trump", "election", "debate", "gop", "news", "candidate", "voter", "tonight", "court", "presidential"
+Topic8: "insulin", "coverage", "playing", "mom", "yorkers", "racism", "jewish", "wade", "adult", "capped"
+
+
+Executing LDA with 9 topics and 50 epochs
+Execution time: 9.090 min
+Coherence umass: -10.075 e Coherence cv: 0.534
+
+----- TOPIC -----
+Topic1: "illegal", "writes", "healthcare", "loved", "space", "mental", "colleague", "migrant", "airport", "immigration"
+Topic2: "american", "year", "state", "right", "today", "time", "family", "one", "america", "need"
+Topic3: "job", "economy", "cost", "climate", "tax", "energy", "access", "infrastructure", "investment", "debt"
+Topic4: "default", "profit", "christie", "hosting", "baby", "gold", "fast", "ccp", "chris", "poor"
+Topic5: "mccarthy", "tune", "et", "hall", "kevin", "inquiry", "larry", "episode", "birthday", "accountable"
+Topic6: "via", "choice", "deliver", "push", "god", "loan", "dakota", "victory", "relief", "internet"
+Topic7: "gop", "senate", "court", "presidential", "abortion", "florida", "ban", "spending", "primary", "learn"
+Topic8: "colorado", "pact", "everyday", "roe", "river", "rise", "jim", "trade", "driver", "tuberville"
+Topic9: "biden", "amp", "trump", "republican", "president", "democrat", "election", "house", "would", "vote"
+
+
+Executing LDA with 10 topics and 50 epochs
+Execution time: 9.135 min
+Coherence umass: -11.928 e Coherence cv: 0.498
+
+----- TOPIC -----
+Topic1: "god", "faith", "transportation", "hey", "facility", "greed", "study", "rise", "spring", "gold"
+Topic2: "biden", "amp", "american", "trump", "people", "year", "president", "republican", "state", "right"
+Topic3: "deserve", "water", "billionaire", "growth", "living", "grant", "incredible", "emergency", "article", "ceiling"
+Topic4: "via", "writes", "mike", "episode", "housing", "rest", "throughout", "guest", "tour", "application"
+Topic5: "jersey", "resign", "birthday", "mom", "legislature", "training", "bribery", "ai", "tuberville", "crossing"
+Topic6: "improve", "strike", "loan", "relief", "rail", "rural", "starting", "ny", "honored", "fun"
+Topic7: "sen", "solution", "extremist", "healthcare", "colleague", "mandate", "priority", "lawsuit", "caucus", "nj"
+Topic8: "act", "care", "community", "woman", "health", "child", "economy", "cost", "covid", "gun"
+Topic9: "colorado", "full", "local", "save", "penny", "texas", "word", "education", "air", "stage"
+Topic10: "pm", "et", "default", "progressive", "expanding", "wonderful", "fellow", "earth", "sunday", "east"
+
+
+Executing LDA with 11 topics and 50 epochs
+Execution time: 8.862 min
+Coherence umass: -12.318 e Coherence cv: 0.484
+
+----- TOPIC -----
+Topic1: "infrastructure", "veteran", "bipartisan", "investment", "crisis", "spending", "build", "local", "learn", "celebrate"
+Topic2: "colorado", "listen", "default", "leave", "announce", "writes", "faith", "promise", "workforce", "glad"
+Topic3: "sen", "choice", "strengthen", "invest", "destroy", "caucus", "sacrifice", "season", "river", "stuff"
+Topic4: "tune", "afford", "article", "airline", "blame", "elon", "stopped", "decline", "starbucks", "angle"
+Topic5: "et", "airport", "resign", "bus", "park", "kick", "fake", "nyc", "avoid", "lawyer"
+Topic6: "discus", "pm", "town", "welcome", "healthcare", "excited", "congratulation", "update", "incredible", "introduced"
+Topic7: "menendez", "improve", "transportation", "destroying", "virginia", "mom", "society", "banned", "summit", "minnesota"
+Topic8: "reproductive", "prescription", "insulin", "pact", "negotiate", "playing", "exposed", "roe", "nomination", "toxic"
+Topic9: "watch", "together", "benefit", "sure", "city", "vaccine", "county", "mccarthy", "clean", "legislation"
+Topic10: "dakota", "rail", "progressive", "legislature", "expanding", "medication", "champion", "delay", "earth", "tuberville"
+Topic11: "biden", "amp", "american", "trump", "people", "year", "president", "republican", "state", "right"
+
+
+Executing LDA with 12 topics and 50 epochs
+Execution time: 8.996 min
+Coherence umass: -11.566 e Coherence cv: 0.499
+
+----- TOPIC -----
+Topic1: "amp", "family", "community", "act", "care", "bill", "worker", "health", "nation", "child"
+Topic2: "biden", "american", "trump", "people", "year", "president", "republican", "state", "right", "time"
+Topic3: "climate", "energy", "infrastructure", "investment", "clean", "fair", "manufacturing", "middle", "meet", "reduction"
+Topic4: "teacher", "jersey", "profit", "everyday", "fauci", "gold", "driver", "fast", "crossing", "ccp"
+Topic5: "menendez", "writes", "billionaire", "larry", "limit", "bob", "glad", "birthday", "progressive", "coverage"
+Topic6: "tune", "relief", "table", "advocate", "christie", "flight", "study", "older", "ai", "eligible"
+Topic7: "colorado", "discus", "pm", "learn", "sen", "et", "looking", "hunter", "move", "fox"
+Topic8: "serving", "roe", "solidarity", "picket", "champion", "domestic", "farm", "starbucks", "kamala", "wade"
+Topic9: "vaccine", "primary", "penny", "charge", "judge", "indictment", "stage", "haley", "according", "foreign"
+Topic10: "insulin", "discussion", "negotiate", "expanding", "newsom", "digital", "capped", "prevention", "aviation", "pharma"
+Topic11: "court", "justice", "honor", "joined", "democratic", "critical", "supreme", "attack", "force", "celebrate"
+Topic12: "yorkers", "rebuild", "basic", "color", "nobody", "chaos", "tie", "servicemembers", "violent", "cancellation"
+
+
+Executing LDA with 13 topics and 50 epochs
+Execution time: 9.007 min
+Coherence umass: -12.400 e Coherence cv: 0.512
+
+----- TOPIC -----
+Topic1: "border", "funding", "thanks", "bipartisan", "city", "desantis", "important", "ukraine", "talk", "china"
+Topic2: "lie", "listen", "jersey", "resign", "airline", "destroying", "store", "sick", "mom", "nomination"
+Topic3: "cost", "energy", "infrastructure", "veteran", "investment", "inflation", "benefit", "clean", "drug", "paying"
+Topic4: "impeachment", "hunter", "extremist", "writes", "inquiry", "incredible", "housing", "birthday", "bus", "hosting"
+Topic5: "default", "hey", "ceiling", "owner", "training", "brave", "ai", "driver", "east", "easy"
+Topic6: "via", "pm", "et", "industry", "workforce", "limit", "afford", "virginia", "super", "green"
+Topic7: "menendez", "iowa", "kevin", "jr", "colleague", "airport", "pushing", "bob", "dr", "attention"
+Topic8: "announce", "internet", "lawsuit", "profit", "speed", "nj", "false", "minnesota", "newsom", "seeking"
+Topic9: "biden", "amp", "american", "trump", "people", "year", "president", "republican", "state", "right"
+Topic10: "dignity", "passenger", "port", "cap", "prove", "guard", "jackson", "bet", "waste", "pres"
+Topic11: "worker", "join", "colorado", "service", "union", "michigan", "florida", "mccarthy", "discus", "tune"
+Topic12: "haley", "faith", "larry", "mandate", "season", "nikki", "fauci", "spread", "pentagon", "decline"
+Topic13: "deserves", "starbucks", "aviation", "narrative", "bid", "feed", "info", "takeaway", "pilot", "chat"
+
+
+Executing LDA with 14 topics and 50 epochs
+Execution time: 8.393 min
+Coherence umass: -12.587 e Coherence cv: 0.510
+
+----- TOPIC -----
+Topic1: "town", "hall", "writes", "jersey", "fraud", "mexico", "mandate", "choose", "afford", "rich"
+Topic2: "menendez", "majority", "supply", "welcome", "inquiry", "pandemic", "happening", "robert", "racist", "resign"
+Topic3: "extremist", "river", "solidarity", "passing", "park", "uaw", "picket", "fed", "traffic", "easier"
+Topic4: "decline", "fine", "starbucks", "podcast", "privilege", "die", "headline", "relationship", "neighborhood", "drinking"
+Topic5: "join", "future", "investment", "passed", "project", "manufacturing", "building", "food", "looking", "listen"
+Topic6: "via", "iowa", "lawmaker", "rail", "hosting", "johnson", "career", "success", "champion", "newsom"
+Topic7: "sick", "christie", "everyday", "clinton", "summit", "donate", "fellow", "yorkers", "ev", "decide"
+Topic8: "airport", "internet", "rural", "speed", "deserves", "thrive", "tour", "driver", "stopped", "saturday"
+Topic9: "celebrate", "nd", "birthday", "dignity", "liberty", "seeking", "jim", "accessible", "application", "fulton"
+Topic10: "infrastructure", "reduction", "prescription", "improve", "insulin", "saving", "lowering", "va", "development", "legislature"
+Topic11: "colorado", "legislation", "tune", "tomorrow", "choice", "solution", "deliver", "billionaire", "jr", "mike"
+Topic12: "ceiling", "mom", "flight", "wake", "whistleblower", "ccp", "tie", "cap", "jackson", "insane"
+Topic13: "amp", "american", "year", "right", "need", "today", "family", "america", "job", "make"
+Topic14: "biden", "trump", "president", "democrat", "election", "house", "republican", "would", "vote", "like"
+
+
+Executing LDA with 15 topics and 50 epochs
+Execution time: 8.910 min
+Coherence umass: -12.547 e Coherence cv: 0.479
+
+----- TOPIC -----
+Topic1: "map", "crossing", "storm", "color", "port", "cdc", "panel", "treatment", "armed", "cast"
+Topic2: "legislation", "lower", "medicare", "reduction", "prescription", "liberal", "insulin", "saving", "chain", "global"
+Topic3: "learn", "manufacturing", "middle", "road", "bidenomics", "menendez", "default", "investing", "anti", "improve"
+Topic4: "nj", "car", "expert", "drop", "musk", "irs", "prosecutor", "personal", "report", "elon"
+Topic5: "colorado", "grateful", "kevin", "writes", "standard", "resign", "ceiling", "constitution", "accountable", "sound"
+Topic6: "via", "summit", "minnesota", "eligible", "improving", "angle", "heading", "podcast", "violent", "analysis"
+Topic7: "et", "solution", "god", "priority", "afford", "virginia", "experience", "banned", "park", "reelection"
+Topic8: "reproductive", "leave", "parent", "serve", "lawmaker", "quality", "co", "profit", "rally", "tech"
+Topic9: "biden", "amp", "american", "trump", "people", "year", "president", "republican", "state", "right"
+Topic10: "faith", "solidarity", "wonderful", "kick", "boy", "chaos", "legislative", "canadian", "bet", "feed"
+Topic11: "tune", "deliver", "loan", "reform", "fear", "airline", "progressive", "christie", "everyday", "mother"
+Topic12: "funding", "michigan", "vaccine", "passed", "local", "price", "tell", "listen", "illegal", "word"
+Topic13: "deserves", "alongside", "israel", "earned", "illinois", "basic", "urge", "starbucks", "pick", "deadline"
+Topic14: "tonight", "veteran", "union", "crisis", "pas", "project", "ban", "spending", "build", "paying"
+Topic15: "technology", "serving", "girl", "hampshire", "dignity", "emission", "weather", "ai", "favorite", "domestic"
+
+
+Executing LDA with 16 topics and 50 epochs
+Execution time: 9.650 min
+Coherence umass: -13.199 e Coherence cv: 0.512
+
+----- TOPIC -----
+Topic1: "border", "wall", "mayor", "improve", "mike", "migrant", "limit", "mr", "caucus", "grow"
+Topic2: "mom", "advance", "yeah", "fetterman", "easier", "channel", "machine", "podcast", "capital", "pelosi"
+Topic3: "solution", "priority", "ceiling", "alongside", "wing", "newsom", "tuberville", "dog", "adult", "series"
+Topic4: "vivek", "ramaswamy", "everyday", "fellow", "earth", "reagan", "poor", "tucker", "cancellation", "carlson"
+Topic5: "kevin", "planet", "training", "file", "east", "charged", "award", "registration", "convention", "nice"
+Topic6: "mccarthy", "via", "mental", "workforce", "travel", "internet", "mandate", "rail", "speed", "trillion"
+Topic7: "faith", "disaster", "rural", "friday", "july", "experience", "organization", "moving", "fentanyl", "guest"
+Topic8: "supply", "god", "chain", "kennedy", "profit", "development", "spring", "ai", "changing", "funded"
+Topic9: "fair", "wage", "morning", "north", "default", "grateful", "growing", "teacher", "joining", "behind"
+Topic10: "billionaire", "kick", "emission", "defeat", "spread", "ad", "round", "michael", "encourage", "harm"
+Topic11: "worker", "thank", "way", "join", "federal", "live", "court", "end", "together", "union"
+Topic12: "extremist", "haley", "dc", "society", "banned", "summit", "nikki", "jail", "racism", "rnc"
+Topic13: "bus", "electric", "driver", "chaos", "prove", "bid", "cast", "heat", "realize", "planning"
+Topic14: "biden", "amp", "american", "trump", "people", "year", "president", "republican", "state", "right"
+Topic15: "cost", "covid", "tax", "energy", "colorado", "debt", "inflation", "cut", "program", "vaccine"
+Topic16: "menendez", "defense", "industry", "interview", "jersey", "loved", "robert", "understand", "prevent", "heart"
+
+
+Executing LDA with 17 topics and 50 epochs
+Execution time: 8.395 min
+Coherence umass: -12.872 e Coherence cv: 0.490
+
+----- TOPIC -----
+Topic1: "god", "mr", "airline", "blame", "clinton", "newsom", "oil", "kick", "spring", "box"
+Topic2: "join", "colorado", "policy", "vaccine", "full", "enough", "learn", "speaker", "old", "charge"
+Topic3: "saving", "reduce", "invest", "housing", "facility", "wishing", "mother", "green", "passing", "legislature"
+Topic4: "everyday", "river", "training", "ag", "kamala", "entrepreneur", "dedicated", "miami", "garland", "embarrassing"
+Topic5: "funding", "infrastructure", "debt", "program", "passed", "pas", "critical", "control", "medicare", "texas"
+Topic6: "via", "faith", "colleague", "facing", "playing", "hosting", "mom", "season", "organization", "director"
+Topic7: "chain", "science", "trial", "damage", "fulton", "driver", "decide", "constitutional", "holiday", "carlson"
+Topic8: "lawsuit", "minnesota", "announcement", "university", "jim", "tuberville", "transition", "traffic", "farm", "angle"
+Topic9: "biden", "american", "trump", "people", "year", "president", "republican", "state", "right", "time"
+Topic10: "prescription", "insulin", "afford", "lowering", "progressive", "alongside", "ensuring", "ruling", "baby", "rise"
+Topic11: "deliver", "loan", "relief", "profit", "ceiling", "expanding", "application", "century", "adult", "round"
+Topic12: "destroy", "nd", "devastating", "nyc", "illinois", "reagan", "ca", "tie", "prove", "bid"
+Topic13: "virginia", "society", "success", "vital", "file", "alabama", "crucial", "starbucks", "digital", "jewish"
+Topic14: "amp", "gun", "tonight", "bipartisan", "love", "black", "safety", "talk", "violence", "project"
+Topic15: "pact", "victory", "return", "constitution", "deserves", "solidarity", "filed", "picket", "register", "ai"
+Topic16: "penny", "default", "mike", "standard", "serious", "mandate", "ramaswamy", "concern", "caucus", "tech"
+Topic17: "movement", "discussion", "bridge", "rail", "worst", "nomination", "expected", "radical", "missed", "march"
+
+
+Executing LDA with 18 topics and 50 epochs
+Execution time: 8.609 min
+Coherence umass: -12.612 e Coherence cv: 0.459
+
+----- TOPIC -----
+Topic1: "playing", "minnesota", "easy", "storm", "click", "pick", "jack", "card", "dnc", "purpose"
+Topic2: "debate", "funding", "michigan", "issue", "china", "war", "discus", "local", "impeachment", "pm"
+Topic3: "colorado", "happy", "billion", "spending", "learn", "visit", "morning", "grateful", "weapon", "low"
+Topic4: "jersey", "christie", "coverage", "exposed", "invasion", "expanding", "toxic", "transition", "chris", "thursday"
+Topic5: "birthday", "facility", "fed", "ohio", "pentagon", "sad", "mcconnell", "crew", "production", "warm"
+Topic6: "default", "stuff", "guest", "dignity", "oil", "gender", "accessible", "legacy", "ev", "proposal"
+Topic7: "saving", "migrant", "limit", "prevent", "airline", "ny", "example", "deserves", "floor", "immigrant"
+Topic8: "proud", "energy", "clean", "tune", "joined", "wage", "water", "education", "parent", "possible"
+Topic9: "texas", "night", "looking", "hate", "truth", "stage", "age", "mayor", "teacher", "conversation"
+Topic10: "improve", "rail", "va", "asking", "clinton", "study", "eligible", "crossing", "passenger", "poor"
+Topic11: "listen", "north", "writes", "lawmaker", "medical", "third", "rich", "fear", "friday", "body"
+Topic12: "travel", "resign", "mom", "wake", "nazi", "favorite", "yeah", "stopped", "tim", "reagan"
+Topic13: "god", "choose", "ceiling", "ally", "progressive", "musk", "putin", "elon", "seeking", "usa"
+Topic14: "biden", "amp", "american", "trump", "people", "year", "president", "republican", "state", "right"
+Topic15: "project", "read", "young", "food", "largest", "solution", "kevin", "serve", "ask", "faith"
+Topic16: "via", "penny", "anti", "mike", "dangerous", "loved", "happening", "fraud", "exactly", "pushing"
+Topic17: "supply", "haley", "chain", "nj", "wishing", "communist", "training", "nikki", "secret", "gold"
+Topic18: "industry", "push", "insulin", "grant", "return", "profit", "virginia", "sacrifice", "blame", "success"
+
+
+Executing LDA with 19 topics and 50 epochs
+Execution time: 9.634 min
+Coherence umass: -12.482 e Coherence cv: 0.491
+
+----- TOPIC -----
+Topic1: "caucus", "floor", "yeah", "gt", "ad", "deadline", "registration", "hill", "buying", "tv"
+Topic2: "he", "truth", "behind", "possible", "jersey", "ask", "faith", "saving", "happening", "fraud"
+Topic3: "colorado", "happy", "default", "helping", "improve", "putting", "street", "bringing", "celebrating", "difference"
+Topic4: "vivek", "ramaswamy", "virginia", "attention", "wednesday", "israel", "wonderful", "guest", "filed", "racism"
+Topic5: "everyone", "michigan", "learn", "sen", "meet", "face", "governor", "second", "anyone", "road"
+Topic6: "teacher", "workforce", "travel", "relief", "consumer", "choose", "pushing", "airline", "car", "birthday"
+Topic7: "tune", "joining", "haley", "update", "movement", "nj", "ceiling", "twitter", "christie", "hosting"
+Topic8: "welcome", "billionaire", "larry", "airport", "role", "grant", "profit", "officer", "doctor", "owner"
+Topic9: "cost", "funding", "infrastructure", "investment", "benefit", "passed", "florida", "drug", "paying", "price"
+Topic10: "writes", "unemployment", "growth", "chain", "invest", "blame", "emission", "application", "strengthening", "lowest"
+Topic11: "planet", "champion", "driver", "dog", "farm", "cdc", "damn", "fantastic", "flood", "fail"
+Topic12: "bus", "mom", "kick", "storm", "replace", "touch", "witness", "momentum", "treated", "catch"
+Topic13: "via", "please", "listen", "menendez", "ron", "bob", "destroying", "fun", "season", "stupid"
+Topic14: "amp", "american", "people", "year", "president", "republican", "state", "right", "time", "need"
+Topic15: "solution", "serve", "deliver", "forget", "serious", "mandate", "bridge", "priority", "rural", "dc"
+Topic16: "pm", "et", "facility", "summit", "fed", "east", "becoming", "channel", "difficult", "legislative"
+Topic17: "deserves", "musk", "elon", "wrote", "file", "ev", "beyond", "fetterman", "scheme", "philadelphia"
+Topic18: "trump", "biden", "election", "house", "debate", "government", "joe", "gop", "covid", "news"
+Topic19: "hey", "progressive", "coverage", "solidarity", "legislature", "stopped", "thursday", "adult", "prevention", "cap"
+
+
+Executing LDA with 20 topics and 50 epochs
+Execution time: 8.899 min
+Coherence umass: -12.703 e Coherence cv: 0.507
+
+----- TOPIC -----
+Topic1: "biden", "amp", "american", "trump", "people", "year", "president", "republican", "state", "right"
+Topic2: "join", "covid", "business", "better", "live", "next", "look", "senator", "debt", "watch"
+Topic3: "default", "extremist", "larry", "coverage", "deserves", "electric", "effect", "vehicle", "fauci", "cancer"
+Topic4: "airport", "profit", "stuff", "kick", "funded", "fee", "philadelphia", "entrepreneur", "discrimination", "native"
+Topic5: "kevin", "minute", "caucus", "ceiling", "ally", "facility", "elect", "clinton", "guest", "seek"
+Topic6: "mandate", "hey", "summer", "director", "newsom", "yeah", "proposal", "illinois", "mask", "reliable"
+Topic7: "teacher", "billionaire", "jersey", "reality", "congratulation", "workforce", "robert", "assistance", "kennedy", "course"
+Topic8: "cost", "energy", "infrastructure", "investment", "inflation", "clean", "drug", "price", "lower", "senior"
+Topic9: "pact", "alongside", "exposed", "solidarity", "expanding", "toxic", "study", "announcement", "dignity", "survivor"
+Topic10: "progressive", "ev", "traffic", "fetterman", "towards", "heading", "difficult", "chaos", "aviation", "cap"
+Topic11: "lawsuit", "champion", "fed", "tough", "marriage", "easier", "farm", "peace", "brown", "cdc"
+Topic12: "via", "menendez", "nj", "bob", "chair", "girl", "irs", "rise", "gold", "boy"
+Topic13: "god", "airline", "spring", "storm", "stood", "bid", "capital", "headline", "convention", "misinformation"
+Topic14: "thank", "benefit", "talk", "tune", "pm", "joined", "sen", "et", "night", "generation"
+Topic15: "across", "gun", "funding", "access", "veteran", "bipartisan", "together", "happy", "safe", "ensure"
+Topic16: "listen", "ask", "speak", "dangerous", "inquiry", "investigation", "episode", "resign", "fear", "attention"
+Topic17: "chain", "focused", "wonder", "israel", "nikki", "trade", "legacy", "email", "knew", "vp"
+Topic18: "water", "secure", "expand", "solution", "supply", "writes", "weekend", "ill", "faith", "growth"
+Topic19: "south", "corporate", "unemployment", "loan", "auto", "carolina", "providing", "annual", "uaw", "picket"
+Topic20: "hall", "jr", "rail", "mom", "johnson", "summit", "earth", "dog", "award", "port"
