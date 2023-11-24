@@ -1,0 +1,2 @@
+username,date,first_topic,first_topic_name,first_topic_prob,sentiment,sentiment_prob,emotion,emotion_prob,second_topic,second_topic_name,second_topic_prob,text,lemmatized_text,per_word_topics,per_word_topics_name
+POTUS,2023-06-28 15:30:53+00:00,3,News/radio/livestream,0.56244665,positive,0.5204888582229614,anticipation,0.6709396839141846,1.0,American/economics/health,0.06250762,See you at the groundbreaking.,groundbreaking,"[('groundbreaking', [3])]","[('groundbreaking', ['News/radio/livestream'])]"
