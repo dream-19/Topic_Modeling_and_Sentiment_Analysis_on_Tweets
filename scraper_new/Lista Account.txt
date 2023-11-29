@@ -1,15 +1,7 @@
 Elenco account dei candidati:
 
-- @marwilliamson: Marianne Williamson (democratica)
+- @marwilliamson: Marianne Williamson (democratico)
 - @Mike_Pence: Mike Pence (repubblicano)
-- @TheDemocrats: account dei democratici
-- @HouseDemocrats: democratici
-- @dscc: senato democratici
-- @GOP: account dei repubblicani
-- @HouseGOP: repubblicani
-- @SenateGOP: senato repubblicano
-- @AP_Politics: pagina politica
-- @politico: pagina politica
 - @POTUS: Joe Biden (democratico)
 - @RobertKennedyJr: Robert F.Kennedy Jr (democratico)
 - @NikkiHaley: Nikki Haley (repubblicano)
@@ -22,6 +14,13 @@ Elenco account dei candidati:
 - @GovChristie: Chris Christie (repubblicano)
 - @GovDougBurgum: Doug Burgum (repubblicano)
 - @WillHurd: Will Hurd (repubblicano)
+
+- @TheDemocrats: account dei democratici
+- @HouseDemocrats: democratici
+- @dscc: senato democratici
+- @GOP: account dei repubblicani
+- @HouseGOP: repubblicani
+- @SenateGOP: senato repubblicano
 
 Altri politici attivi:
 @KamalaHarris
@@ -65,6 +64,8 @@ Giornalisti tratti da: https://www.vogue.com/article/the-nine-best-twitter-accou
 @NateSilver538
 
 Altro
+@AP_Politics: pagina politica
+@politico: pagina politica
 @LeadingReport - news di politica
 @IngrahamAngle - giornalista
 @marklevinshow
@@ -72,7 +73,7 @@ Altro
 @TheDemCoalition
 @WhiteHouse
 @WashTimesOpEd
-@NRSC - senato repubblicano
+@NRSC 
 
 
 Hashtag interessanti:
