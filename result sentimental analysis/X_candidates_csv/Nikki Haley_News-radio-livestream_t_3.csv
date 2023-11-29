@@ -1,1 +1,1 @@
-username,date,first_topic,first_topic_name,first_topic_prob,sentiment,sentiment_prob,emotion,emotion_prob,second_topic,second_topic_name,second_topic_prob,text,lemmatized_text,per_word_topics,per_word_topics_name
+username,date,first_topic,first_topic_name,first_topic_prob,sentiment,sentiment_prob,all_sentiments,emotion,emotion_prob,all_emotions,second_topic,second_topic_name,second_topic_prob,text,lemmatized_text,per_word_topics,per_word_topics_name
