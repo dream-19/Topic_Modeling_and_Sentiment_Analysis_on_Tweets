@@ -1,3 +1,4 @@
 all_tweet_cleaned_pretty.txt
 doc/results.csv
 doc/sentiment_analysis.csv
+doc/sentiment_analysis_all.csv
