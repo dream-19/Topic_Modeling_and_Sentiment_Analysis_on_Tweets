@@ -5,10 +5,10 @@ import datetime
 
 class Scraper():
     def __init__(self):
-        self.consumer_key = "MrwXuqlCd0Diu0KhYd6SBJCET"
-        self.consumer_secret = "67Ngbl0ehvfu6Ns4oLKChl0GGoADY9kmUrow4s4aOGFE3YK9wB"
-        self.access_token = "1703756952361136128-6RXeRpcTviJs6urkM8aiuMWfCpJq9A"
-        self.access_token_secret = "Z1CFYyeUSnOuu3iakGCEvmnlDwIC1hpYM8UcWkKBctH2D"
+        self.consumer_key = "------"
+        self.consumer_secret = "-----"
+        self.access_token = "---"
+        self.access_token_secret = "----"
         self.callback_uri = 'oob'
 
     def start(self):
